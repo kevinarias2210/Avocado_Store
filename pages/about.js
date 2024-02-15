@@ -3,7 +3,7 @@ import React from "react";
 function About(){
     return(
         <>
-            <h1>Esta es otra pagina</h1>
+            <h1>Esta es otra paginas</h1>
         </>
     )
 }
