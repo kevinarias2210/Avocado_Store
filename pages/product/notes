@@ -1,0 +1,16 @@
+Como sabemos que una pagina es pre-renderizado?
+R= Vamos al código fuente de la pagina. El contenido principal de la pagina
+ya viene incluido dentro del HTML es decir que no hay clients a rendering.
+Todo lo que se está viendo en la página está haciendo desde el servido (SSR) 
+sin haberlo configurado
+
+SSR = Server Sides Rendering es importante especialmente cuando nos importa
+el SEO (Search Enginee Optimitation) como ya todo está pre-renderizado desde 
+el servidor es mucho mas amigables para todos los motores de busqueda, next
+ya lo hace por nosotros.
+
+Client Side = Es el lado del cliente cuando vamos a navegar
+SPA = Single Page Aplication
+
+Se utiliza el componente link al momento de navegar o enrutar nuestro sitio
+el client side y el SPA hacen que evite que se recargue de nuevo
