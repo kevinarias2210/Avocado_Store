@@ -14,3 +14,4 @@ SPA = Single Page Aplication
 
 Se utiliza el componente link al momento de navegar o enrutar nuestro sitio
 el client side y el SPA hacen que evite que se recargue de nuevo
+
